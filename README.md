@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Larry Lai.
 - 👀 I’m interested in system development.
-- 🌱 I’m currently learning python/django.
-- 💞️ I’m looking to collaborate on IOT product design.
+- 🌱 I’m currently learning Python/Django/ChatGPT.
+- 💞️ I’m looking to collaborate on AI/IOT product design.
 - 📫 How to reach me: larry@ks-tech.com.tw
 
 <!---
